@@ -10,7 +10,7 @@ export default function App() {
   return (
     <div className="App">
       <header className="header">
-        <img className="logo" src="/images/logo.svg" alt="" />
+        <img className="logo" src="images/logo.svg" alt="" />
         <h1>A history of everything you copy</h1>
         <p>
           Clipboard allows you to track and organize everything you copy.
@@ -32,7 +32,7 @@ export default function App() {
           </article>
 
           <div className="has-image">
-            <img src="/images/image-computer.png" alt="" />
+            <img src="images/image-computer.png" alt="" />
             <article>
               <h2>Quick Search</h2>
               <p>
@@ -63,7 +63,7 @@ export default function App() {
             </p>
           </article>
 
-          <img src="/images/image-devices.png" alt="" />
+          <img src="images/image-devices.png" alt="" />
 
           <article>
             <h2>Supercharge your workflow</h2>
@@ -72,7 +72,7 @@ export default function App() {
 
           <div className="features">
             <article>
-              <img src="/images/icon-blacklist.svg" alt="" />
+              <img src="images/icon-blacklist.svg" alt="" />
               <h2>Create Blacklists</h2>
               <p>
                 Ensure sensitive information never makes its way to your
@@ -81,7 +81,7 @@ export default function App() {
             </article>
 
             <article>
-              <img src="/images/icon-text.svg" alt="" />
+              <img src="images/icon-text.svg" alt="" />
               <h2>Plain text snippets</h2>
               <p>
                 Remove unwanted formatting from copied text for a consistent
@@ -90,7 +90,7 @@ export default function App() {
             </article>
 
             <article>
-              <img src="/images/icon-preview.svg" alt="" />
+              <img src="images/icon-preview.svg" alt="" />
               <h2>Sneak preview</h2>
               <p>
                 Quick preview of all snippets on your Clipboard for easy access.
@@ -100,11 +100,11 @@ export default function App() {
         </section>
 
         <section className="sponsors">
-          <img src="/images/logo-google.png" alt="Google" />
-          <img src="/images/logo-ibm.png" alt="IBM" />
-          <img src="/images/logo-microsoft.png" alt="Microsoft" />
-          <img src="/images/logo-hp.png" alt="Hewlett Packard" />
-          <img src="/images/logo-vector-graphics.png" alt="Vector Graphics" />
+          <img src="images/logo-google.png" alt="Google" />
+          <img src="images/logo-ibm.png" alt="IBM" />
+          <img src="images/logo-microsoft.png" alt="Microsoft" />
+          <img src="images/logo-hp.png" alt="Hewlett Packard" />
+          <img src="images/logo-vector-graphics.png" alt="Vector Graphics" />
         </section>
 
         <section>

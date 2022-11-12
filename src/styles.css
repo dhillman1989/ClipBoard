@@ -64,8 +64,9 @@ article img {
 
 .App {
   text-align: center;
-  background-image: url(/images/bg-header-mobile.png);
+  background-image: url(./assets/bg-header-mobile.png);
   background-repeat: no-repeat;
+  background-size: 100% auto;
   background-position: top right;
 }
 
@@ -164,7 +165,7 @@ article {
 
 @media (min-width: 600px) {
   .App {
-    background-image: url(/images/bg-header-desktop.png);
+    background-image: url(./assets/bg-header-desktop.png);
     font-size: 18px;
   }
 
